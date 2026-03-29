@@ -1,5 +1,7 @@
 # 🎉 Vibe-Agent - Simple Tool for Smooth Operations
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/innocuous-stiffness915-vibe-agent)
+
 ## 🚀 Getting Started
 
 Welcome to Vibe-Agent! This application offers a user-friendly way to handle essential tasks on your computer. Below, you'll find everything you need to download and run the software smoothly.
